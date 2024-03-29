@@ -1,2 +1,3 @@
-# colorchanger
+javascript project
+
 simplejavascriptproject
